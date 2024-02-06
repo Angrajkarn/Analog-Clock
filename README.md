@@ -20,10 +20,6 @@ Copy code
 Open the index.html file in your web browser.
 
 Enjoy watching the elegant analog clock display the current time!
-
-# Demo
-Include screenshots or gifs showcasing the functionality and appearance of your analog clock.
-
 # Contribution
 If you encounter any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. Contributions are welcome!
 
